@@ -9,7 +9,7 @@ The matrix contains diabetes patients administered for ICU. The matrix has 10,31
 Patients.csv, D_ICD_DIAGNOSES.csv, DIAGNOSES_ICD.csv, ADMISSIONS.csv and ICUSTAYS.csv are joined to create the matrix with diagnoses matched to patients, ICD9 code, disease categories and demographic information.
 
 Numerical columns:
-* LOS is the length of the ICU stay of a patient. The length of stay is measured in days.;
+* LOS is the length of the ICU stay of a patient. The length of stay is measured in days.
 * Hospitalization is the number of hospitalization of a patient.
 
 Categorical/ Binary columns:
